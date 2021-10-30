@@ -1,6 +1,6 @@
 ---
 title: "Unit 4 - 6 Review Starter"
-author: "Gavin - Better Group!"
+author: "Insert a group number and/or name here"
 date: "Insert date here"
 output: html_document
 ---
